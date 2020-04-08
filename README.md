@@ -4,4 +4,4 @@ One of the most beautiful animations in android is Circular Reveal Animation and
 effects on user experience.
 
 
-                                                            ![](Circular.gif)
+![](Circular.gif)
